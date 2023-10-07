@@ -1,10 +1,8 @@
 # kohoclone
 
-A new Flutter Finance app project.
+## A new Flutter Finance app project.
 
-## Getting Started
-
-[Flutter: finance application design](./assets/screen.png)
+![Flutter: finance application design](./assets/screen.png)
 
 This project is a starting point for a Flutter application.
 
